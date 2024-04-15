@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radioButtonEasy" type="id" />
+    <item name="radioButtonNormal" type="id" />
+    <item name="radioButtonHard" type="id" />
+    <item name="editTextDescription" type="id" />
+    <item name="editTextSearch" type="id" />
+    <item name="btn_search" type="id" />
+    <item name="radioButtonBad" type="id" />
+    <item name="radioButtonGood" type="id" />
+    <item name="radioButtonWeatherBad" type="id" />
+    <item name="radioButtonWeatherNormal" type="id" />
+    <item name="radioButtonWeatherGood" type="id" />
+    <item name="editTextLakeLocation" type="id" />
+    <item name="editTextComment" type="id" />
+</resources>
